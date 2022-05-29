@@ -147,8 +147,8 @@ ORDER BY 과목기간 , 등수;
 학생 이름, 과정명, 과목명, 교육 기간(시작 연월일, 끝 연월일), 교재 명, 출결, 실기, 필기, 총점, 등수 
 아직 안끝난 과목은 출력 불가
 과정 쪽도 약간 오류..
-
 */
+
 CREATE OR REPLACE VIEW VIEW_STUDENT_GRADE  
 AS 
 SELECT DISTINCT T1.학생이름
