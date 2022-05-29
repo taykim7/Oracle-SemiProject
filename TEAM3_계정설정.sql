@@ -1,7 +1,7 @@
 
 --1. 관리자 아이디 생성
 INSERT INTO ADMIN(ADMIN_ID, ADMIN_NAME, SSN, PASSWORD)
-VALUES('ADMIN', '김민성', '970725-1111111', '1111');
+VALUES('ADMIN', '피카츄', '970725-1111111', '1111');
 
 --2. 책 데이터 생성
 EXEC PRC_BOOK_INSERT('자바의정석', '집');
