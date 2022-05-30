@@ -10,8 +10,7 @@
 <br><br>
 🛒 <b>ERD</b><br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/97800846/171003727-3e710dca-6ff2-4f08-a8fa-844e078d93c8.png"/>
-<br><br>
-
+<br>
 🛒 <b>후기</b><br>
 오라클 프로젝트를 앞두고 걱정이 많았다. <br>
 자바에 비해 조심해야 할 것도 많았고 오라클 속 구조에 대한 이해가 부족한 탓이었다. <br>
